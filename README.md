@@ -23,6 +23,9 @@ Last commit made on the 12th December 2024
     -Once the DB is created on your PostgreSQL server, */java/scripts/compile.sh* with the correspondent changes will initilize the app.
 
   - ### What is next?
+
+    -Some parts of the code are still vulnerable to SQL injection.
+    
     -Forks suggesting changes to improve or extend the functionality of the application will be gratefully accepted.
     
     -To improve the user experience, the creation of a GUI will be considered. 
